@@ -1,0 +1,10 @@
+整体框架描述
+搭建环境 & hadoop-mapreduce-examples-2.6.5.jar
+MR设计理念
+手动实现WordCount：粗粒度介绍计算框架
+源码分析
+天气案例：细粒度介绍计算框架
+FOF案例：MR与数据模型
+PageRank案例：
+TFIDF案例：
+ItemCF案例：
